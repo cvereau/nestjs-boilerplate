@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="http://kamilmysliwiec.com/public/nest-logo.png#1" alt="Nest Logo" /></a>
 </p>
 
-# nestjs-demo
+# Nestjs 5 starter
 
 ## Description
 
