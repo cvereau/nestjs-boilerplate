@@ -29,7 +29,7 @@ $ npm run start:prod
 
 ## Swagger
 
-browse to localhost:3000/docs
+browse to http://localhost:3000/docs
 
 ## People
 
