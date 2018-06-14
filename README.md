@@ -21,7 +21,7 @@ $ npm install
 $ npm run start
 
 # hot reload
-$ npm run start:hrm
+$ npm run start:hmr
 
 # production mode
 $ npm run start:prod
